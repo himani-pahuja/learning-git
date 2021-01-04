@@ -1,4 +1,4 @@
-hello 
-hi 
+hello world
 i m using git
+writting from github
 
